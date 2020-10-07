@@ -11,6 +11,7 @@
   "dependencies": {
     "@rooks/use-online": "^3.6.0",
     "csstype": "latest",
+    "framer-motion": "^2.7.7",
     "graphql": "^15.3.0",
     "graphql-request": "^3.1.0",
     "graphql-tag": "^2.11.0",

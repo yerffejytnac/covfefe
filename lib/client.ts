@@ -38,7 +38,7 @@ export const useQuery = (query = "") => {
     suspense: false,
     revalidateOnFocus: true,
     revalidateOnReconnect: true,
-    refreshInterval: 300000,
+    refreshInterval: 10000,
     refreshWhenHidden: true,
     refreshWhenOffline: false,
     shouldRetryOnError: true,
